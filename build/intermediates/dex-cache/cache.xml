@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Android_Studio\IAK\BeautyfulLombok\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b35a3dd331f6857f7f927bba3ff03f52f6eed0a0">
+        <dex dex="E:\Android_Studio\IAK\BeautyfulLombok\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_73dbce54ee9062686f0bc2a96cde2b68f38f0de3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Studio\BeautyfulLombok\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="267bbfa8d9ce298050efd25c95f3c4c90c5b3a75">
+        <dex dex="E:\Android_Studio\BeautyfulLombok\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c5afc5d833a0edb32ee65f33f68ca5d63cb3debf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Studio\BeautyfulLombok\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\Android_Studio\BeautyfulLombok\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7fb0436d1de0e1f1f114d3868e49d03bc8b68c9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ojiq\.android\build-cache\9c1b7c075f86ab518e71dc8c4575dc26aa5f4ae8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="E:\Android_Studio\IAK\BeautyfulLombok\app\build\intermediates\pre-dexed\debug\classes_3094600d970c28aab5d4e6f28f75add0313773d7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Studio\IAK\BeautyfulLombok\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\Android_Studio\IAK\BeautyfulLombok\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ac0d814b95da454e9b67f591cfcde40e2b39f426\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ojiq\.android\build-cache\100db9e89f7f00cf9d75f384e22427785c8f01df\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="75d15557ff7531e59b01362d46bb06dd59c5f971">
+        <dex dex="E:\Android_Studio\IAK\BeautyfulLombok\app\build\intermediates\pre-dexed\debug\classes_a1795fef596b4f573eeed913c89bc86099f9d649.jar" />
+    </item>
+
+</items>

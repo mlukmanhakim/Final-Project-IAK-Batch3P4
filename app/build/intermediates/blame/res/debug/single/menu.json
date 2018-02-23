@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_detail_wisata.xml",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\menu\\menu_detail_wisata.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_detail_kuliner.xml",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\menu\\menu_detail_kuliner.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_detail_kuliner.xml",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\menu\\menu_detail_kuliner.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_mangku_sakti.xml",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\menu\\menu_mangku_sakti.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_pantai_nambung.xml",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\menu\\menu_pantai_nambung.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_gunung_rinjani.xml",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\menu\\menu_gunung_rinjani.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_sembalun.xml",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\menu\\menu_sembalun.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_sembalun.xml",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\menu\\menu_sembalun.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_mangku_sakti.xml",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\menu\\menu_mangku_sakti.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_pantai_semeti.xml",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\menu\\menu_pantai_semeti.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_pantai_semeti.xml",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\menu\\menu_pantai_semeti.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_gunung_rinjani.xml",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\menu\\menu_gunung_rinjani.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_pantai_nambung.xml",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\menu\\menu_pantai_nambung.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_detail_wisata.xml",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\menu\\menu_detail_wisata.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_gili_kedis.xml",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\menu\\menu_gili_kedis.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_gili_kedis.xml",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\menu\\menu_gili_kedis.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_detail_kerajinan.xml",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\menu\\menu_detail_kerajinan.xml"
+    }
+]

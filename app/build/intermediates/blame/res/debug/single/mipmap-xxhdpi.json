@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,618 @@
+[
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wisata_pantai_nambung.jpg",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\wisata_pantai_nambung.jpg"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\budaya.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\budaya.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kuliner_nasi_balap_puyung.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\kuliner_nasi_balap_puyung.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_pink.xml",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\shape_pink.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\budaya_bg_nyongkolan.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\budaya_bg_nyongkolan.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kuliner_ayam_rarang.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\kuliner_ayam_rarang.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_purple.xml",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\shape_purple.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kuliner_nasi_balap_puyung.png",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\kuliner_nasi_balap_puyung.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wisata_sembalun.jpg",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\wisata_sembalun.jpg"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wisata_pantai_nambung.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\wisata_pantai_nambung.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wisata_gili_kedis.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\wisata_gili_kedis.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.png",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lukman_photo.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\lukman_photo.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\budaya.png",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\budaya.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nyongkolan.jpg",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\nyongkolan.jpg"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\animasijalan.gif",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\animasijalan.gif"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kuliner.png",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\kuliner.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kerajinan.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\kerajinan.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_primary.xml",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\shape_primary.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\874c8f630e4040c913a25295ac2d4f8a4e1528a7\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\874c8f630e4040c913a25295ac2d4f8a4e1528a7\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\874c8f630e4040c913a25295ac2d4f8a4e1528a7\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wisata_mangku_sakti.jpg",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\wisata_mangku_sakti.jpg"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_yellow.xml",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\shape_yellow.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kerajinan_rotan.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\kerajinan_rotan.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plash.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\plash.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lg_udacity.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\lg_udacity.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\874c8f630e4040c913a25295ac2d4f8a4e1528a7\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kuliner.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\kuliner.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\budaya_gendang_beleq.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\budaya_gendang_beleq.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lg_google_developer.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\lg_google_developer.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_pink.xml",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\shape_pink.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kerajinan_songket.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\kerajinan_songket.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_primary.xml",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\shape_primary.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kuliner_ayam_taliwang.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\kuliner_ayam_taliwang.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lg_pesona_lombok.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\lg_pesona_lombok.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wisata_sembalun.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\wisata_sembalun.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_purple.xml",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\shape_purple.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\874c8f630e4040c913a25295ac2d4f8a4e1528a7\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_green.xml",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\shape_green.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btnbackground.xml",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\btnbackground.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lg_google.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\lg_google.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wisata_mangku_sakti.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\wisata_mangku_sakti.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kerajinan_patung.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\kerajinan_patung.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kerajinan_cukli.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\kerajinan_cukli.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_yellow.xml",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\shape_yellow.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kuliner_ikan_bakar_nipah.png",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\kuliner_ikan_bakar_nipah.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_tentang_aplikasi.xml",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\background_tentang_aplikasi.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wisata_gunung_rinjani.jpg",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\wisata_gunung_rinjani.jpg"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wisata_pantai_semeti.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\wisata_pantai_semeti.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wisata_gunung_rinjani.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\wisata_gunung_rinjani.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\budaya_bg_peresean_blur.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\budaya_bg_peresean_blur.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kerajinan_bambu.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\kerajinan_bambu.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iklan.gif",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\iklan.gif"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\budaya_peresean.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\budaya_peresean.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wisata.png",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\wisata.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\874c8f630e4040c913a25295ac2d4f8a4e1528a7\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\budaya_nyongkolan.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\budaya_nyongkolan.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wisata_gili_kedis.jpg",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\wisata_gili_kedis.jpg"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kuliner_ayam_taliwang.png",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\kuliner_ayam_taliwang.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wisata_pantai_semeti.jpg",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\wisata_pantai_semeti.jpg"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\874c8f630e4040c913a25295ac2d4f8a4e1528a7\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lg_iak.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\lg_iak.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kerajinan_mutiara.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\kerajinan_mutiara.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kuliner_ikan_bakar_nipah.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\kuliner_ikan_bakar_nipah.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroundgradien.xml",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\backgroundgradien.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iklan_bus.gif",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\iklan_bus.gif"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wisata.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\wisata.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\874c8f630e4040c913a25295ac2d4f8a4e1528a7\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kuliner_ayam_rarang.png",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\kuliner_ayam_rarang.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\budaya_gendang_belek_blur.png",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\budaya_gendang_belek_blur.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\874c8f630e4040c913a25295ac2d4f8a4e1528a7\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\animasi_2018.gif",
+        "source": "E:\\Android_Studio\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\animasi_2018.gif"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kerajinan.png",
+        "source": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\src\\main\\res\\drawable\\kerajinan.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\874c8f630e4040c913a25295ac2d4f8a4e1528a7\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\IAK\\BeautyfulLombok\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Ojiq\\.android\\build-cache\\197002ac6c8611fddf36bfedbc87d547034c8ccd\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    }
+]

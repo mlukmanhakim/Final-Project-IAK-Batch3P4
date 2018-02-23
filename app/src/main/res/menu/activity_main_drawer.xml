@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_wisata"
+            android:icon="@drawable/ic_wisata"
+            android:title="@string/wisata" />
+        <item
+            android:id="@+id/nav_kuliner"
+            android:icon="@drawable/ic_kuliner"
+            android:title="@string/kuliner" />
+        <item
+            android:id="@+id/nav_budaya"
+            android:icon="@drawable/ic_budaya"
+            android:title="@string/budaya" />
+        <item
+            android:id="@+id/nav_kerajinan"
+            android:icon="@drawable/ic_aksesoris"
+            android:title="@string/kerajinan" />
+    </group>
+
+    <item android:title="Tentang">
+        <menu>
+            <item
+                android:id="@+id/nav_profil"
+                android:icon="@drawable/ic_profil"
+                android:title="@string/developer" />
+            <item
+                android:id="@+id/nav_tentang"
+                android:icon="@drawable/ic_tentang"
+                android:title="@string/tentang" />
+
+        </menu>
+    </item>
+
+</menu>

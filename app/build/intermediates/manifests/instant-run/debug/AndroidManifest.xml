@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.lukman.pesonaLombok"
+    android:versionCode="1"
+    android:versionName="2.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="25" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.lukman.beautyfullombok.Main"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.lukman.beautyfullombok.DetailWisata"
+            android:label="@string/title_activity_detail_wisata"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.lukman.beautyfullombok.GiliKedis"
+            android:label="@string/title_activity_gili_kedis"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.lukman.beautyfullombok.MangkuSakti"
+            android:label="@string/title_activity_mangku_sakti"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.lukman.beautyfullombok.PantaiSemeti"
+            android:label="@string/title_activity_pantai_semeti"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.lukman.beautyfullombok.PantaiNambung"
+            android:label="@string/title_activity_pantai_nambung"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.lukman.beautyfullombok.Sembalun"
+            android:label="@string/title_activity_sembalun"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.lukman.beautyfullombok.GunungRinjani"
+            android:label="@string/title_activity_gunung_rinjani"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.lukman.beautyfullombok.DetailKuliner"
+            android:label="@string/title_activity_detail_kuliner"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="com.lukman.pesonaLombok.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

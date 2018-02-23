@@ -1,0 +1,4 @@
+#Wed Feb 14 14:59:07 SGT 2018
+base.0=E\:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+renamed.0=classes.dex
+file.0=E\:\\Android_Studio\\BeautyfulLombok\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex

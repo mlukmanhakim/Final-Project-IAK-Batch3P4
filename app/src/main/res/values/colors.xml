@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff5951</color>
+    <color name="colorPrimaryDark">#b2443f</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="lighGrey">#fafafa</color>
+    <color name="purple">#7c4dff</color>
+    <color name="yellow">#ffb300</color>
+    <color name="biru">#0088d4</color>
+    <color name="ping">#ffac90</color>
+    <color name="orange">#ffcb3e</color>
+    <color name="biruTransparant">#d900bbd4</color>
+    <color name="primaryTransparant">#d9ff5951</color>
+    <color name="orangeTransparant">#d9ffcb3e</color>
+    <color name="pingTransparant">#d9ffac90</color>
+    <color name="hitamTransparant">#66000000</color>
+    <color name="putihTransparan">#66ffffff</color>
+    <color name="starBlue">#09c6df</color>
+    <color name="endBlue">#0bcce6</color>
+    <color name="transparan">#00ffffff</color>
+
+
+</resources>

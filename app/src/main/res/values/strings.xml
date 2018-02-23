@@ -1,0 +1,268 @@
+<resources>
+    <string name="app_name">Pesona Lombok</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="wisata">Wisata</string>
+    <string name="kuliner">Kuliner</string>
+    <string name="budaya">Budaya</string>
+    <string name="kerajinan">Kerajinan</string>
+    <string name="email">pesonalombok.com</string>
+    <string name="developer">Profil Pengembang</string>
+    <string name="tentang">Tentang Aplikasi</string>
+    <string name="title_activity_detail_wisata">Wisata</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="gilikedis">Gili Kedis</string>
+    <string name="pantaisemeti">Pantai Semeti</string>
+    <string name="mangkusakti">Mangku Sakti</string>
+    <string name="pantainambung">Pantai Nambung</string>
+    <string name="sembalun">Sembalun</string>
+    <string name="gunungrinjani">Gunung Rinjani</string>
+    <string name="title_activity_gili_kedis">Gili Kedis</string>
+    <string name="title_activity_pantai_semeti">Pantai Semeti</string>
+    <string name="title_activity_mangku_sakti">Mangku Sakti</string>
+    <string name="title_activity_pantai_nambung">Pantai Nambung</string>
+    <string name="title_activity_sembalun">Sembalun</string>
+    <string name="title_activity_gunung_rinjani">Gunung Rinjani</string>
+    <string name="title_activity_detail_kuliner">Kuliner</string>
+    <string name="kul_ayam_rarang">Ayam Rarang</string>
+    <string name="kul_ayam_taliwang">Ayam Taliwang</string>
+    <string name="kul_nasi_balap_puyung">Nasi Balap Puyung</string>
+    <string name="kul_ikan_bakar_nipah">Ikan Bakar Nipah</string>
+    <string name="text_peresean">Peresean</string>
+    <string name="title_activity_detail_kerajinan">Kerajinan</string>
+    <string name="songket">Songket</string>
+    <string name="rotan">Rotan</string>
+    <string name="lukman">M. Lukman Hakim</string>
+
+    <string name="peresean">
+        "Peresean adalah pertarungan antara dua lelaki yang bersenjatakan tongkat rotan (Penjalin) dan berperisai kulit kerbau yang tebal dan keras (Perisai disebut Ende) , tradisi ini dilakukan oleh masyarkat suku Sasak Lombok Ntb, Indonesia.\n\n"
+        "Peresean termasuk seni tari daerah lombok, Petarung dalam peresean biasanya disebut pepadu dan wasit disebut pekembar.\n\n"
+        "Dahulu Peresean digelar untuk melatih ketangkasan suku Sasak dalam mengusir para penjajah."
+    </string>
+    <string name="desc_nyongkolan">
+                "Nyongkolan : Beberapa ritual keagamaan maupun ritual adat di pulau Lombok seringkali mengundang perhatian para wisatawan, seperti bau nyale, pujawali, perang topat atau presean.\n\n"
+                "Salah satunya yang paling menarik menurut para wisatawan adalah Ritual atau Tradisi nyongkolan. Nyongkolan adalah sebuah tradisi lokal di Lombok, dimana sepasang pengantin di arak beramai-ramai seperti seorang raja menuju rumah / kediaman sang pengantin wanita.\n\n"
+                "Arak-arakan ini selalu diiringi dan diramaikan dengan beraneka tetabuhan alat musik tradisional dan kesenian khas suku Sasak. Tujuannya agar para warga sekitar mengetahui bahwa pasangan pengantin tersebut sudah menjadi sepasang suami istri yang sah.\n\n"
+    </string>
+
+    <string name="gendang_beleq">
+        "Gendang beleq adalah alat musik tradisional yang dimainkan secar berkelompok, gandang beleq berasal dari suku sasak Lombok, NTB, Indonesia, asal kata gendang berasal dri bunyi gendang itu sendiri  yaitu bunyi deng atau dung, beleq berasal dari bahasa sasak yang berari besar.\n\n"
+        "Gendang beleq biasanya digelar dalam acara - acara adat seperti  adat nyongkolan dan  lain – lain. gendang beleq itu sendiri dimainkan oleh banyak personil yang memadukan bunyi dari berbagai jenis alat musik."
+    </string>
+    <string name="rating_aplikasi">Ratting</string>
+    
+    <string name="desc_bukit_pergasingan">
+        "Tempat wisata di Lombok kian hari makin banyak dikenal orang. Makin banyak pula wisata baru di lombok bermunculan. Salah satunya adalah Bukit Pergasingan, salah satu bukit keren di Lombok yang memiliki pemandangan begitu indah.\n\n"
+        "Bukit Pergasingan yang ada di Lombok ini memang menawan. Apalagi biasanya bukit keren yang satu ini dimanfaatkan sebagai salah satu tempat pemanasan sebelum naik ke Gunung Rinjani. Atau bisa juga sebagai alternatif pendakian jika misalnya jalur pendakian Gunung Rinjani sedang ditutup.\n\n"
+        "Memang dari bukit dengan ketinggian 1700 mdpl ini, Gunung Rinjani terlihat kokoh berada di dekatnya. Jadi, untuk yang belum bisa naik ke Gunung Rinjani, mendaki bukit pergasingan bisa menjadi obat yang ampuh sebelum merengkuh puncak rinjani yang sebenarnya.\n\n"
+        "Bukit Pergasingan ini letaknya tak jauh dari Gunung Rinnjani, tepatnya berada di Desa Sembalun, Lombok Timur. Jika kalian ingin menuju kebukit ini, waktu yang ditempuh untuk menuju Desa Sembalun dari Kota Mataram sendiri bisa ditempuh selama sekitar 2-3 jam.\n\n"
+
+        "Sesampainya disana, kalian akan disambut tulisan “Selamat Datang di Kawasan Wisata Bukit Pergasingan”. Tak berapa lama dari pintu masuk tadi, baru titik pendakian ke Bukit Pergasingan dimulai.\n\n"
+        "Pendakian tak sesulit seperti pendakian di gunung, meskipun kalian harus tetap berhati-hati ketika naik. Menuju puncak bukit, kalian akan dimudahkan dengan keberadaan anak tangga yang berjumlah ratusan buah, baru kemudian mendaki melewati jalur tanah berbatu. Berhati-hatilah, karena jalur dengan kemiringan berkisar 60-70 derajat akan menyambut kalian dengan penuh tantangan.\n\n"
+        "O iya, Dari Desa Sembalun Lawang, kalian bisa menuju pintu rimba dengan berjalan kaki atau bisa juga menggunakan ojek motor. Alternatifnya kalian bisa menyewa mobil pickup dari penduduk setempat Pun akan lebih gampang jika kalian membawa kendaraan pribadi.\n\n"
+        "Untuk memulai petualangan di Bukit Pergasingan, kalian nanti harus membayar tiket masuk sebesar IDR 15.000 kepada pengelola Bukit Pergasingan. Tiketnya nggak terlalu mahal, apalagi hasil dari penjualan tiket akan digunakan dengan bermanfaat.\n\n"
+        "Pengelola wisata baru di Lombok ini adalah para pemuda setempat yang tergabung dalam Sembalun Development Community Centre (SCDC). Nantinya uang tiket kalian akan dipergunakan dengan bijak untuk menjaga kelestarian bukit agar tetap terawat.\n\n"
+        "Bukit ini bisa dibilang salah satu tempat wisata yang keren di Lombok. Karena pemandangan yang bisa dilihat sepanjang pendakian hinggga sampai puncak bukit amat beragam. Misalnya yang paling keren adalah pemandangan persawahan yang membentuk pola kotak-kotak, Gunung Rinjani yang kokoh, pemukiman Desa Sembalun yang tenang, hingga lanskap perbukitan yang begitu indah.\n\n"
+        "Perlu diketahui kalau Bukit Pergasingan ini berada pada ketinggian 1700 mdpl sementara itu Desa Sembalun sendiri berada pada ketinggian sekitar 1100-an mdpl. Jadi kira-kira ketinggian yang harus kalian daki hanyalah sekitar 600 meter. Gampang bukan?Memang pendakian bukit ini tidak begitu berat, untuk pendakian normal, kira-kira bisa ditempuh selama 2-3 jam jalan kaki saja. Karena itu, mendaki Bukit Pergasingan ini cocok sekali buat kalian yang ingin naik Rinjani. Untuk pemanasan terlebih dahulu deh!.\n\n"
+        "Selain itu, sepanjang perjalanan mendaki, kalian akan disuguhkan oleh pemandangan alam Lombok yang sangat menakjubkan. Hamparan sawah bak permadani berwarna-warni, kabut yang menyelimuti Desa Sembalun, ditambah lagi dengan pemandangan cantik Gunung Rinjani yang menjulang tinggi. Yakin nggak berminat main naik kesini?.\n\n"
+        "Selain itu, ketika kalian sudah di puncak, sebaiknya kalian camping saja disana. Karena pemandangan matahari terbit dan pagi hari di Bukit Pergasingan ini begitu cantik luar biasa. Hanya saja, satu yang perlu kalian ingat dan catat baik-baik! Jangan pernah buang sampah sembarangan atau bahkan meninggalkan sampah di Bukit Pergasingan ini!.\n\n"
+
+    </string>
+    <string name="judul_sembalun">
+        "Hamparan sawah dari atas bukit: Sembalun"
+    </string>
+
+    <string name="desc_pantai_semeti">
+        "Kecantikan Lombok dan Bali diakui sebagai salah satu pulau terbaik di Asia. ini dibuktikan oleh para pembaca CN Traveler. di antara lima pulau itu, dua dari Indonesia. Bali tetap menjadi primadona terbaik mengalahkan Phuket dan Koh Samui, Thailand. Lombok selalu bisa membayang-bayangi keindahan Pulau Bali.\n\n"
+        "Termasuk salah satu pantai cantik yang ada di Lombok itu adalah Pantai Semeti. Pantai Semeti bersebelahan dengan Pantai Mawi, Lombok Tengah. jalan menuju pantai Semeti tidak lebih bagus dari jalan Pantai Mawi. tak ada penduduk di dekat Pantai ini. sepi dan masih perawan.\n\n"
+        "Pantai Semeti Kabupaten Lombok, Tengah, Pulau Lombok adalah salah satu pulau yang terletak di provinsi Nusa Tenggara Barat, di pulau inilah ribuan surga-surga kecil dihempaskan oleh indahnya tangan tuhan, salah satu dari sekian banyaknya surga-surga kecil itu bisa anda nikmati di Pantai Selong Belanak atau di Pantai Semeti Lombok Tengah yang akan saya bahas pada kesempatan ini, Pantai Semeti berlokasi di dekat Pantai Mawi Lombok Tengah, Sangat di sayangkan keindahan surga-surga kecil tuhan ini harus di raih dengan perjuangan yang tidak mudah anda harus menaklukkan jalan yang kondisinya sangat rusak terutama pada musim hujan.\n\n"
+        "Semeti nama pantai di sebelah tenggara pulau Lombok ini. Memang cukup sulit untuk ditemukan. Tersembunyi di balik jejeran perbukitan menghijau daerah Selong Belanak yang eksotis. Membutuhkan waktu tempuh 2 jam perjalanan dari Senggigi untuk membuktikan keindahannya yang elok tersebut.\n\n"
+        "Kondisi jalan yang rusak parah bukanlah suatu halangan untuk menikmati keindahan yang memukau mata, bersemangatlah jangan menyerah karena di depan sana pantai yang indah akan menyambut kedatangan anda dengan ramah.
+        "Pantai semeti adalah pantai berpasir putih sama seperti Pantai Kuta Lombok, namun ada beberapa yang membedakan pantai ini dengan pantai lainnya di Pulau Lombok diantaranya adalah bebatuan karang dan birunya air laut menjadi salah satu daya pikat bagi para wisatawan lokal maupun asing.\n\n"
+        "Di pantai ini terdapat hamparan batu karang yang luas membuat kita akan berlama-lama karena kita akan fokus mencari binatang-binatang laut yang tersesat di antara batu karang tersebut. Selain itu pantai ini juga sangat bagus dijadikan sebagai obyek fotografi atau sebagai latar belakang bagi anda yang narsis.\n\n"
+        "Pantai Semeti terletak di kawasan Selong Belanak. Di kawasan ini terdapat pantai-pantai indah lainnya antara lain Pantai Selong Belanak sendiri, Pantai Mawun, Pantai Ruwuk dan Pantai Mawi. Sekumpulan pantai yang indah yang merupakan sebagian kecil pantai-pantai di Lombok.\n\n"
+        "jika pantai Mawi penuh dengan para peselancar. maka Semeti penuh dengan keheningan. beberapa Nelayan itu ku ketahui berasal dari daerah Kuta. jadi sejatinya pantai ini benar-benar sepi. hanya saya yang menikmati keindahan pantai. teriknya matahari tak memupuskan kaki untuk melangkahkan kaki di bebatuan pantai Mawi.\n\n"
+        "Akuarium alam yang dipenuhi oleh terumbu-terumbu karang dengan ikan-ikan kecil yang selalu menemaninya. begitu ombak besar datang. maka akuarium-akuarium itu penuh dengan air laut. kemudian air laut keluar melewati celah-celah akuarium alam itu. ikan-ikan kecil itu pun berhamburan bercampur dengan busa-busa ombak. begitu busa-busa itu menghilang, nampak ikan-ikan kecil yang berenang di Akuarium alam\n\n"
+
+        "alur menuju ke sini cukup terjal dan berliku, jadi kenakanlah alas kaki anti selip, karena Anda juga harus melewati tebing karang setinggi 20 meter.\n\n"
+        "Dan di balik tebing karang itulah fenomena alam Pantai Semeti yang lain daripada yang lain berada.
+        "Perjalanan dari Kota Mataram hingga ke Pantai Semeti memakan waktu 2,5 jam. Disarankan bila ke sini menggunakan motor saja, karena meski jalanan pantai bagus namun cukup sempit dan dapat menghambat waktu. Dari pos pembayaran retribusi tiket masuk ke kawasan pantai, ikuti jalurnya sepanjang 1 km kemudian ambil arah kiri menuju ke Pantai Semeti dan kanan jika ingin ke Pantai Mawi.\n\n"
+
+    </string>
+    <string name="judul_pantai_semeti">
+        "Serasa berada di planet lain: Pantai Semeti"
+    </string>
+
+    <string name="desc_pantai_nambung">
+               "Pulau Lombok banyak menyimpan keindahan alam yang tidak biasa. Salah satunya adalah air terjun asin yang berada di Pantai Nambung, Lombok Barat, Nusa Tenggara Barat (NTB).\n\n"
+        "ill come to: Nambung bich." Tulisan selamat datang dengan aksen lokal ini dipasang penduduk setempat untuk menunjukkan lokasi Pantai Nambung..\n\n"
+        "Hamparan pasir merica dan ombak Pantai Nambung yang tenang, seolah menyambut kedatangan wisatawan di pantai ini. Pantai Nambung memiliki bibir pantai cukup luas dengan pemandangan laut lepasnya yang indah serta jajaran perbukitan yang mengelilingi pantai.\n\n"
+        "Selain keelokan alamnya, pengunjung dapat melihat langsung deretan rumput laut yang tertata rapi di sepanjang bibir pantai. Sebab selain untuk mencari ikan, penduduk setempat memanfaatkan pantai ini sebagai tempat budidaya rumput laut.\n\n"
+        "Pantai Nambung terletak di Dusun Pengantap, Desa Buwun Emas, Kecamatan Sekotong, Lombok Barat, NTB. Dari Kota Mataram, perjalanan dapat ditempuh dengan menggunakan mobil maupun sepeda motor selama dua jam perjalanan.\n\n"
+        "Lokasi air terjun asin ini berada di ujung Pantai Nambung. Untuk dapat mencapainya, kita harus berjalan kaki menyusuri pasir dan bebatuan di pesisir Pantai Nambung.\n\n"
+        "Meski jarak tempuh ke lokasi tidak terlalu jauh. Namun pengunjung harus melewati hamparan pasir seperti butiran merica yang membuat kaki terasa berat melangkah. Demikian juga saat melewati bebatuan, pengunjung diharapkan hati-hati karena cukup rawan.\n\n"
+        "Selain berjalan kaki, ada alternatif lain untuk bisa mencapai lokasi. Pengunjung dapat menyewa perahu milik nelayan setempat untuk mencapai lokasi air terjun. Cukup merogoh kocek Rp 10.000 pengunjung bisa berperahu sambil menikmati sekeliling Pantai Nambung.\n\n"
+        "Jika pantai sedang surut, di balik tebing bebatuan di ujung Pantai Nambung terdapat kolam alami yang terletak di tengah-tengah jajaran batu karang. Disanalah lokasi air terjun asin berada.\n\n"
+        "Siang itu, puluhan wisatawan lokal berkerumun di tepi kolam tampak tengah menunggu sesuatu. Aahh..., teriak mereka pun pecah ketika ombak besar menerjang batu karang.\n\n"
+        "Buih ombak putih yang menerjang karang, membentuk aliran air di antara bebatuan sehingga terbentuk sebuah air terjun asin. Pemandangan inilah yang selalu ditunggu setiap pengunjung yang datang ke tempat ini.\n\n"
+        "Sensasi air terjun asin di Pantai Nambung ini pun kian santer diperbincangkan di dunia maya. Tidak heran, makin banyak orang yang penasaran dan ingin melihat tempat ini. Meski harus menempuh medan yang cukup berat, namun rasa lelah akan terbayar dengan pemandangan alam yang menawan.\n\n"
+        "Para pengunjung pun rela bersabar untuk bisa menikmati air terjun Nambung ini. Seperti Andi, salah satu pengunjung asal Mataram. Ia rela berpanas-panas demi menyaksikan sensasi air terjun asin di Pantai Nambung.\n\n"
+        "Sudah dari tadi saya tunggu nggak muncul-muncul, tapi pas munculnya keren banget," kata Andi.\n\n"
+        "Saat di lokasi ini, pengunjung perlu waspada karena ombak yang datang dari balik tebing tidak dapat diprediksi.\n\n"
+        "Menurut penduduk setempat, Pantai Nambung semakin ramai dikunjungi beberapa bulan terakhir. Kebanyakan dari mereka adalah kaum muda yang penasaran akan keberadaan air terjun ini.\n\n"
+        "Banyaknya pengunjung yang mulai datang ke tempat ini memberikan dampak positif bagi warga setempat. Daerah yang semula sepi kini ramai dikunjungi wisatawan.\n\n"
+        "Dengan menyediakan jasa parkir di halaman rumahnya, warga mendapat penghasilan yang cukup. Selain itu pedagang asongan juga mulai hidup dengan banyaknya pengunjung. Hanya saja pintu masuk ke tempat ini masih belum tertata dengan baik.\n\n"
+        "Selain fasilitas, masalah sampah masih menjadi problem di tempat pariwisata. Belum ada sarana kebersihan seperti tong sampah. Hal itu diperparah dengan perilaku pengunjung yang kerap membuang sampah di sekitar lokasi wisata. Masalah ini harus menjadi perhatian bersama, baik pemerintah setempat maupun pengunjung.\n\n"
+
+        "Keajaiban Air Terjun Asin di Pantai Nambung Lombok.\n\n"
+        "Air terjun itu aslinya berasal dari deburan ombak yang kencang menerjang dan melewatibebatuan sehingga air yang menerpa batuan tersebut seakan menjadi pondasi dari air terjun yang diberi nama Tanjung Jagog. Kita hanya perlu bersabar menanti deburan ombak yang keras tersebut. Sambil menunggu ombak tersebut datang kita bisa juga melihat langsung jejeran rumput laut di sepanjang bibir pantai, karena pantai nambung Lombok ini juga menjadi tempat budidaya rumput laut sebagai mata pencaharian warga sekitar selain menjadi nelayan..\n\n"
+        "Saat pantai sedang surut nyatanya pantai nambung tidak lepas dari keindahannya. Karena di balik tebing bebatuan tersebut akan ada kolam alami di tengah-tengah jajaran batu karang dimana air terjun asin itu berada. Kiniwisata pulau Lombok yang satu ini semakin gencar dan ramai di perbincangkan di dunia maya. Tak luput dari turis local maupun manca Negara, mereka datang hanya untuk menantikan air terjun asin Tanjung Jagog diPantai Nambung Lombok. Nah..jangan lupa mampir kesini ya untuk menikmati keindahan alam yang luar biasa ini..\n\n"
+        "Jika pantai sedang surut, di balik tebing bebatuan di ujung pantai Nambung terdapat kolam alami yang terletak di tengah-tengah jajaran batu karang. Disanalah lokasi 'air terjun' asin berada. Buih ombak putih yang menerjang karang, membentuk aliran air di antara bebatuan sehingga terbentuk sebuah air terjun asin. Pemandangan inilah yang selalu ditunggu setiap pelancong wisata alam yang datang ketempat eksotis ini..\n\n"
+        "Sensasi air terjun asin di pantai Nambung ini pun kian santer diperbincangkan di dunia maya. Tidak heran, makin banyak orang yang penasaran dan ingin melihat tempat ini. Meski harus menempuh medan yang cukup berat, namun rasa lelah akan terbayar dengan pemandangan alam yang menawan. Jadi, bila anda ke Lombok, jangan lupa menyempatkan waktu sejenak untuk menikmati sensasi air terjun asin ini..\n\n"
+
+        "Fenomena alam yang cukup unik ini tercipta akibat ombak besar yang menghempas ke dinding batu karang lalu mengucur jatuh kembali ke laut layaknya air terjun..\n\n"
+        "Untuk mendapatkan hasil foto yang terbaik, Anda harus menyusuri bagian bawah tebing. Jadi bersiaplah untuk membawa tas kedap air karena Anda akan berjalan melewati ombak besar..\n\n"
+        "Kalau tertarik ingin berselancar, jangan lupa untuk bawa sendiri perlengkapannya karena di sini tak tersedia penyewaan. Perairan di sekitar pantai ini juga sangat jernih sehingga asik untuk berenang.\n\n"
+        "Tapi ingat, di sini belum ada fasilitas penunjang seperti toilet umum.
+        "Dari Kota Mataram bisa dicapai ditempuh dalam waktu 2 jam perjalanan melalui rute Mataram – Gerung – Pertigaan Lembar ke kiri – Teluk Sepi – Pengantap. Akses sepanjang jalan sudah sangat baik dan diaspal. Setibanya di Pantai Nambung, Anda dapat menitipkan kendaraan di rumah-rumah penduduk yang menyediakan lokasi parkir yang aman. Untuk menuju ke sini tidak terlalu sulit, namun jika ragu Anda dapat bertanya pada warga sekitar.\n\n"
+
+    </string>
+    <string name="judul_pantai_nambung">
+        "Air terjun di tepi laut: Pantai Nambung"
+    </string>
+
+    <string name="desc_mangku_sakti">
+        "Air terjun mangku sakti mungkin masih terdengar asing bagi para pecinta wisata alam,air terjun ini berlokasi di desa sajang,sembalun,lombok timur,ntb. Air terjun mangku sakti ini terletak di kaki gunung rinjani, menurut salah satu warga sekitar mangku sakti itu berarti penunggu yang ilmu nya mumpuni alias sakti, mangku dalam bahasa lombok atau sasak berarti tetua .\n\n"
+        "Asal mula nama air terjun mangku sakti ini adalah dahulu kala ada seorang mangku, menurut warga sekitar mangu tersebut bernama titi kastura yang bertugas menjadi juru kunci dikaki gunung rinjani. Pada waktu itu warga menjulukinya dengan nama mangku gunung yang dalam bahasa indonesia berarti penjaga gunung. Mangku gunung tersebut ditemani oleh seekor kuda yg oleh warga sekitar kuda tersebut bernama kuda sembrani.\n\n"
+        "Setelah mangku tersebut meninggal, warga menemukan sebuah air terjun di kaki gunung rinjani di desa sajang, sebuah air terjun yang kiri kanannya di apit oleh bebatuan. Konon, saat warga menemukan air terjun tersebut, di sisi kiri air terjun yg tersusun oleh bebatuan membentuk sebuah wajah, yang tak lain oleh para warga sekitar diyakini sebagai wajah sang mangku, oleh karena itu air terjun tersebut kemudian di namakan sbg air terjun mangku sakti.\n\n"
+        "Air terjun mangku sakti ini dialiri oleh air yg tercampur dengan belerang,air terjun ini berketinggian kurang lebih 40m. Jika di air terjun lain anda bisa merasakan langsung deburan air terjunnya, namun disini tidak disarankan untuk mencoba, karna deburan jatuhnya air terjun tersebut membentuk semacam kolam seluas 15 m dalamnya sekitar 2 - 4m. Jadi anda bisa merasakan dinginnya air belerang tersebut sambil berenang.\n\n"
+        "Terdapat juga jump spot buat anda yg mau mencoba keberanian terjun ke kolam air terjun, jump spot nya sekitar 5m. Dibagian bawah aliran air terjun juga anda masih bisa menikmati spot lain buat sekedar berendam atau bahkan melompat terdapat semacam air terjun mini.\n\n"
+        "Ibarat pahatan indah karya maestro ternama, struktur dan formasi bebatuan yang ada di air terjun ini benar-benar mengesankan.\n\n"
+        "Formasi unik menyerupai ngarai tersebut terbentuk secara alami akibat aliran air yang terus-menerus melewatinya.\n\n"
+        "Air yang berhulu di Danau Segara Anak (Gunung Rinjani) tersebut tampak sedikit keruh seperti susu karena kandungan belerang yang diyakini ampuh menyembuhkan berbagai gangguan kulit.\n\n"
+        "Air terjun ini berjarak kurang lebih 175 km dari Kota Mataram dengan waktu tempuh sekitar 4 jam melalui rute Mataram – Pusuk atau sepanjang Jalan Pantai Senggigi – Pemenang – Tanjung – Gondang – Selengan – Batu Gembung – Desa Senaru – Dasan Grisak – Desa Sambiq Elen – Sajang. Setibanya di Desa Sajang, Anda akan menemukan jalan tanag sekitar 4 km menuju air terjun. Pada titik tertentu jalanannya sangat terjal sehingga cukup meningkatkan adrenalin.\n\n"
+
+    </string>
+    <string name="judul_mangku_sakti">
+        "Bak mahakarya seni alami: Air Terjun Mangku Sakti"
+    </string>
+
+    <string name="desc_gunung_rinjani">
+        "Gunung Rinjani yang berlokasi di Lombok utara tentu sudah tidak asing lagi bagi warga Indonesia. Gunung Rinjani yang mempunyai tinggi lebih dari 3,700 meter di atas permukaan laut adalah gunung berapi tertinggi kedua di Indonesia dan merupakan primadona wisata di Pulau Lombok.menjadi gunung favorit para pendaki yang biasanya merupakan mahasiswa, pecinta alam, penduduk lokal, hingga wisatawan asing.Bulan Juli dan bulan Agustus adalah waktu di mana Gunung Rinjani paling banyak dikunjungi wisatawan. Para pendaki gunung ini bertujuan untuk mencapai puncak Gunung Rinjani selain untuk menikmati panoramanya, juga untuk mendapat kepuasan tersendiri karena telah berhasil menaklukan gunung berapi kedua tertinggi di Indonesia ini.etiap tahunnya, jumlah pendaki Gunung Rinjani semakin banyak, dan sebagian besar pendaki ini merupakan mahasiswa pecinta alam yang berasal dari berbagai daerah di Indonesia. Hal yang paling suka mereka lakukan adalah merayakan hari kemerdekaan Indonesia di puncak Gunung Rinjani pada bulan Agustus. Namun perlu diingat bahwa pada bulan Agustus sering kali banyak angin kencang di puncak gunung ini.Selain panorama alam yang tiada duanya, Gunung Rinjani juga mempunyai keunikan lain yaitu flora dan faunanya yang beraneka ragam. Ketika mendaki Gunung Rinjani, anda akan melihat betapa kayanya Gunung Rinjani. Setiap 1,000 meter pendakian anda akan melihat jenis flora yang berbeda, misalnya pada ketinggian 2,000 meter anda akan menemukan banyak cemara gunung, dan pada ketinggian 3,000 meter anda akan melihat banyak bunga edelweiss.Untuk fauna yang dapat anda temui di antaranya adalah lebih dari 100 jenis burung yang berbeda, landak, rusa, monyet perak, monyet ekor panjang, dan lain-lain. Terkadang binatang yang ada di Gunung Rinjani, terutama monyet ekor panjangnya suka berbuat nakal. Kenakalan monyet tersebut adalah masuk ke dalam tenda pendaki dan mengambil makanan yang ada di dalam tenda.\n\n"
+        "Suhu udara di Gunung Rinjani cukup dingin dengan suhu rata-rata sektiar 20 derajat Celsius dan suhu paling dingin bisa mencapai 10 derajat Celsius sehingga anda perlu membawa baju tebal dan jaket untuk menghalau suhu yang dingin tersebut.\n\n"
+        "Dibalik keindahan Gunung Rinjani, juga terdapat resiko yang lumayan tinggi dalam pendakiannya. Hingga saat ini, Gunung yang paling terkenal di Lombok ini telah menelan korban jiwa yang cukup banyak, oleh karena itu anda juga harus berhati-hati ketika melakukan pendakian. Biasanya hal ini terjadi karena cuaca buruk yang tiba-tiba datang, menyebabkan para pendaki kehilangan arah, tersesat, dan pada akhirnya ditemukan tidak bernyawa.\n\n"
+        "Karena resikonya yang lumayan tinggi, saya menyarankan anda untuk mendaki Gunung Rinjani ditemani pemandu supaya tidak tersesat. Biasanya banyak paket tur Gunung Rinjani, mulai dari paket pemula, paket profesional, hingga paket yang hanya setengah jalan saja. Dengan mengikuti program tersebut, anda akan aman dari bahaya tersesat, selain itu, biasanya paket tur tersebut juga menyediakan jasa pembawa barang dan juga meminjamkan alat-alat seperti tenda, alat masak, dan lain-lain sehingga anda hanya perlu datang dengan barang-barang pribadi lalu berangkat menikmati pesona Gunung Rinjani.Biasanya untuk dapat mencapai puncak, pendaki akan membutuhkan waktu 2 malam untuk pendaki profesional, dan 3 malam untuk pendaki pemula. Oleh karena itu anda harus bersiap membawa bekal yang cukup dan peralatan yang memadai untuk menaklukan tantangan ini.Apabila anda mengambil paket tur, tentu saja sebenarnya sudah lengkap peralatan yang perlu dibawa, namun anda tetap harus membawa barang-barang berikut ini karena kemungkinan tidak disediakan oleh pihak tur.\n\n"
+        "Apabila anda adalah seorang yang mempunyai penyakit pernafasan, penyakit jantung, darah tinggi, epilepsi, atau penyakit berbahaya lainnya, maka anda tidak dianjurkan mendaki Gunung Rinjani.\n\n"
+        "Untuk menikmati salah satu tempat wisata di Lombok yang paling populer ini, sebenarnya tidak diperlukan alat-alat yang bermacam-macam. Yang dibutuhkan untuk menjawab tantangan Gunung Rinjani adalah kesabaran, semangat, dan stamina.\n\n"
+
+
+    </string>
+    <string name="judul_gunung_rinjani">
+        "Wisata Lombok – Gunung Rinjani"
+    </string>
+
+    <string name="desc_gili_kedis">
+        "Berjemur atau hanya bersantai sembar duduk memandangi laut lepas yang sangat indah, akan menjadi sebuah pengalaman liburan yang tidak akan pernah terlupakan. Tenangnya ombak laut yang disertai dengan warna biru yang sangat memukau, akan menjadi daya tarik tersendiri ketika anda berkunjung ke objek wisata Gili Kedis tersebut. Selain itu, jangan lupa untuk bisa merasakan kelembutan pasirnya, tanpa mengenakan alas kaki yang akan memberi efek relaksasi untuk tubuh anda, bahkan dengan kelembutan pasirnya, anda akan merasa betah berlama-lama di objek wisata Gili Kedis Lombok.\n\n"
+        "Apabila Anda bosan dengan aktifitas yang biasa-biasa saja, Anda bisa mencoba berenang untuk merasakan segarnya air laut yang ada di Gili Kedis lombok ini. Dengan panorama alam yang indah dan mempesona akan membuat liburan anda semakin menyenangkan. Dan jangan lupa untuk mengabadikan keeksotisan objek wisata Gili Kedis di Lombok.\n\n"
+    </string>
+    <string name="judul_gili_kedis">
+        "Keeksotisan Objek Wisata Gili Kedis Di Lombok"
+    </string>
+
+    <string name="kerajinan_bambu">Kerajinan Bambu</string>
+    <string name="cukli">Cukli</string>
+    <string name="mutira">Mutiara</string>
+    <string name="patung">Patung</string>
+
+</resources>
